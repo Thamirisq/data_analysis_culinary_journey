@@ -61,7 +61,7 @@
 
 # 5. O produto final do projeto
     Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-    O painel pode ser acessado através desse link:https://zomatocompany.streamlit.app/
+    O painel pode ser acessado através desse link: https://cjourneycompany.streamlit.app/Main_Page
     
 # 6. Conclusão
     O projeto exibe um conjunto de gráficos e tabelas que permitem o CEO ter uma visão geral da empresa e movimentar o time para proximos
