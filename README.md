@@ -2,7 +2,7 @@
     O projeto foi criado para ajudar um novo CEO Kleiton Guerra
     a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
     utilizando dados!
-    A empresa Zomato é uma marketplace de restaurantes. Ou seja, seu core business é facilitar 
+    A empresa Culinary Jorney é uma marketplace de restaurantes. Ou seja, seu core business é facilitar 
     o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro 
     da plataforma da Culinary Jorney, que disponibiliza informações como:
     endereço, tipo de culinária servida, se possui reservas, se faz entregas e 
